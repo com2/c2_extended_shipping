@@ -1,5 +1,5 @@
 # c2_extended_shipping
-C2 Extended Shipping for a fee adds a custom fee to a selected existing WooCommerce shipping rate and presents it as an additional rate option. Typically used when you want to offer an extra shipping service for selected (tagged) products and selected zones.
+**C2 Extended Shipping for a fee** adds a custom fee to a selected existing WooCommerce shipping rate and presents it as an additional rate option. Typically used when you want to offer an extra shipping service for selected (tagged) products and selected zones.
 # Installation and Configuration
 Like usual. Copy the c2_extended_shipping folder to /wp-content/plugins/ and activate the plugin. In **WooCommerce > Settings > Shipping > C2 Extended shipping** (/wp-admin/admin.php?page=wc-settings&tab=shipping&section=c2_extended_shipping) you can:
  * activate (by default deactivated) its functionality
